@@ -1,0 +1,6 @@
+nav { width:100%; }
+ul { float:left; }
+ul li { text-decoration:none; }
+.container { text-align: center; }
+footer .container { position: fixed; bottom: 0px; background: #dedede; padding: 5px 0px 0px; }
+footer .container p { margin-bottom: 10px; }

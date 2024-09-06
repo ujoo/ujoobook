@@ -1,5 +1,6 @@
 node_modules/
 .env
+*.bak
 client_secret.json
 drive-nodejs-quickstart.json
 encrypt.js

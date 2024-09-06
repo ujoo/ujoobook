@@ -7,7 +7,7 @@ var os = require( 'os' );
 var http = require( "http" );
 var url = require( "url" );
 var async = require('async');
-var querystring = require( "querystring" );
+//var querystring = require( "querystring" );
 var sys = require( "util" );
 var xml2js = require( "xml2js" );
 var fs = require( "fs" );
@@ -17,8 +17,8 @@ var syncRequest = require( "sync-request" );
 var cheerio = require( "cheerio" );
 // var Iconv = require( "iconv" ).Iconv;
 //var iocnv = new Iconv('EUC-KR', 'UTF-8//TRANSLIT//IGNORE');
-var PDFMerge = require('pdf-merge');
-var jsdom = require("jsdom");
+//var PDFMerge = require('pdf-merge');
+//var jsdom = require("jsdom");
 
 //// 2024.09.01 이전 주석 처리 start ---
 //var google = require('googleapis');
